@@ -14,6 +14,9 @@ container {
     justify-content: center;
     height: 100vh;
     flex-direction: column;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 h1 {
