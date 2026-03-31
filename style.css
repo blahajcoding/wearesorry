@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter@0;1&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
 body {
     margin: 0;
     padding: 0;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Inter, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Inter, sans-serif;
     color: white;
     text-align: center;
     background: radial-gradient(54.58% 52.45% at 50% 85.74%, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #141414 0%, #232323 100%);
